@@ -1,0 +1,15 @@
+parametersSec1=
+magicNumber=20200311
+iLots=0.5
+percRisk=2.0
+iMaxOrders=5
+parametersSec1space=
+parametersSec2=
+stopLoss=20
+takeProfit=50
+iTrailingStart=10
+iTrailingStep=5
+parametersSec2space=
+parametersSec3=
+iBullishX=1
+iBearishX=1
