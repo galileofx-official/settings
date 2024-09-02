@@ -1,0 +1,19 @@
+﻿; saved on 2024.08.23 15:56:55
+; this file contains input parameters for testing/optimizing Galileo FX_Pro_MT5 expert advisor
+; to use it in the strategy tester, click Load in the context menu of the Inputs tab
+;
+parametersSec1=
+magicNumber=20200311||20200311||1||202003110||N
+iLots=0||1.0||0.100000||10.000000||N
+percRisk=3.5||0.5||0.050000||5.000000||N
+iMaxOrders=3||0||1||10||N
+parametersSec1space=
+parametersSec2=
+stopLoss=190||100||20||300||Y
+takeProfit=190||90||20||200||Y
+iTrailingStart=130||70||10||150||Y
+iTrailingStep=60||10||10||70||Y
+parametersSec2space=
+parametersSec3=
+iBullishX=7||3||1||12||Y
+iBearishX=10||3||1||12||Y
