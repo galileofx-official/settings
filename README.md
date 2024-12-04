@@ -1,4 +1,4 @@
-# Galileo FX Settings Repository
+git clone https://github.com/yourusername/galileo-fx-settings.githttps://github.com/yourusername/galileo-fx-settings.gitREADME.md# Galileo FX Settings Repository
 
 ## Introduction
 Welcome to the Galileo FX Settings Repository. This repository is dedicated to sharing and improving trading settings for the Galileo FX trading robot. Whether you are a beginner or an experienced trader, you can find settings here that suit your trading style and risk tolerance.
